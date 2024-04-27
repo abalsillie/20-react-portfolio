@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Philanthropy Manager",
+    "organisation": "Mutual Trust Pty Ltd",
+    "startDate": "April, 2024",
+    "endDate": "Present",
+    "experiences": ["Improving philanthropic technology"],
+    "imageSrc": "mt.jpg"
+  },
+  {
+    "role": "Program Coordinator",
+    "organisation": "Lord Mayor's Charitable Foundation",
+    "startDate": "May, 2022",
+    "endDate": "April, 2024",
+    "experiences": ["Supporting climate action initiatives"],
+    "imageSrc": "lmcf.png"
+  },
+  {
+    "role": "Philanthropy Coordinator",
+    "organisation": "Climate for Change",
+    "startDate": "October, 2019",
+    "endDate": "May, 2022",
+    "experiences": ["Promoting climate action around Australia"],
+    "imageSrc": "c4c.png"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Password Generator",
+    "imageSrc": "password-generator.png",
+    "demo": "https://abalsillie.github.io/3-password-generator/",
+    "source": "https://github.com/abalsillie/3-password-generator.git"
+  },
+  {
+    "title": "General Quiz",
+    "imageSrc": "general-quiz.png",
+    "demo": "https://abalsillie.github.io/4-general-quiz/",
+    "source": "https://github.com/abalsillie/4-general-quiz.git"
+  },
+  {
+    "title": "Daily Planner",
+    "imageSrc": "daily-planner.png",
+    "demo": "https://abalsillie.github.io/5-daily-planner/",
+    "source": "https://github.com/abalsillie/5-daily-planner.git"
+  }
+]
